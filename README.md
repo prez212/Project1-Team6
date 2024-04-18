@@ -7,11 +7,11 @@ Sub Questions:
 1) Does age, gender play a role?
     age bar chart + gender pie chart + heat chart  - LP
 
-2) Does race play a role? Bar chart or  hatch-filled histogram - H
+2) Does race play a role? Bar chart or  hatch-filled histogram - HP
 
 3) Does lifestyle (smoking/drinking) play a factor? Heat chart - SG
 
-4) Does general/mental/physical health and status play a role? - H
+4) Does general/mental/physical health and status play a role? - HS
 
 5) Does sleep time play a role? Discrete distribution chart - HP
 
