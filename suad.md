@@ -40,4 +40,4 @@ Smoking Alcohol Drinking contribute immensely to heart disease, from the data, s
 
 It is important to maintain a healthy lifestyle to decrease the chances of suffering from heart disease. It is equally as important for people with heart disease reduce their smoking and drinking.
 		
-		
+# Refer to team presentation https://docs.google.com/presentation/d/18RPDXQ212UUuZEEoMY39Cp6D9cDfUH2y/edit#slide=id.p1		
