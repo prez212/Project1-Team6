@@ -22,7 +22,7 @@ The data was located in Resources folder heart_2020_cleaned.csv
 	
 
 
-# 4. Plotted a pie chart for Smokers who had heart disease, Smokers who had no heart disease, non smokers who had heart disease, non smokers who had heart disease
+4. Plotted a pie chart for Smokers who had heart disease, Smokers who had no heart disease, non smokers who had heart disease, non smokers who had heart disease
 
 ######
 
